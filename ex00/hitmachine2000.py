@@ -1,4 +1,4 @@
-liga = f"Moi je m'\appelle 'Lolita'\n"
+liga = f"Moi je m'appelle 'Lolita'\n"
 ligb = f"Lo ou bien Lola, du pareil au même\n"
 ligc = f"Quand je rêve aux loups, c\'est Lola qui saigne\n"
 ligd = f"[...]\n"
